@@ -9,3 +9,7 @@ Day2:
 <br>
 Today i read and practise all about json and Sql files like how to import JSON,and How to work with Sql.
 <br>
+Day3:
+<br>
+Today i read and practise all about how to understand the data.
+<br>
