@@ -13,3 +13,7 @@ Day3:
 <br>
 Today i read and practise all about how to understand the data.
 <br>
+Day4:
+<br>
+Today i read about univariate Data Analysis and solve some practise level question.
+<br>
