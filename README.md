@@ -17,3 +17,7 @@ Day4:
 <br>
 Today i read about univariate Data Analysis and solve some practise level question.
 <br>
+Day5:
+<br>
+Today i read about bivariate Data Analysis and Multivariate Data analysis and solve some practise level datset.
+<br>
