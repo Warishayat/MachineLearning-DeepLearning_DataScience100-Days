@@ -21,3 +21,7 @@ Day5:
 <br>
 Today i read about bivariate Data Analysis and Multivariate Data analysis and solve some practise level datset.
 <br>
+Day6:
+<br>
+Today i read about Data_Profiling how to analyse the data in the form of html etc.
+<br>
