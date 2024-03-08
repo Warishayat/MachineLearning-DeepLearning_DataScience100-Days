@@ -25,3 +25,7 @@ Day6:
 <br>
 Today i read about Data_Profiling how to analyse the data in the form of html etc.
 <br>
+Day7:
+<br>
+Today i read about standard Scalar from Feature_Engineering.
+<br>
