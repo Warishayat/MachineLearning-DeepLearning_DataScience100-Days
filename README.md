@@ -29,3 +29,7 @@ Day7:
 <br>
 Today i read about standard Scalar from Feature_Engineering.
 <br>
+Day8:
+<br>
+Today i read about normalization from Feature_Engineering.
+<br>
