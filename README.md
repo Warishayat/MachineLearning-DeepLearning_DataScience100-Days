@@ -33,3 +33,12 @@ Day8:
 <br>
 Today i read about normalization from Feature_Engineering.
 <br>
+Day9:
+<br>
+Today i read about Ordinanl Encoding from Feature_Engineering.
+<br>
+Day10:
+<br>
+Today i read about OneHotEncoding Encoding from Feature_Engineering.
+<br>
+
