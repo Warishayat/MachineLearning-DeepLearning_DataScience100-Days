@@ -41,4 +41,7 @@ Day10:
 <br>
 Today i read about OneHotEncoding Encoding from Feature_Engineering.
 <br>
-
+Day11:
+<br>
+Today i read about the ColumTransformer which is quite easy to do similar task that we do with labelencoder and ordinanl Encoder.
+<br>
