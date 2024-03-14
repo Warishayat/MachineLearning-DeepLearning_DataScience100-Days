@@ -45,3 +45,8 @@ Day12:
 <br>
 Today i read about the sklearn pipelines and practise titanic datset.
 <br>
+Day12:
+<br>
+Today i read about the sklearn function transformer and practise titanic datset.
+<br>
+
