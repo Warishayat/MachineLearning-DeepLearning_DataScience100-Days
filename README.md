@@ -53,4 +53,7 @@ Day14:
 <br>
 Today i read about the sklearn power transformer.
 <br>
-
+Day15:
+<br>
+Today i make a project using all existing concept.
+<br>
