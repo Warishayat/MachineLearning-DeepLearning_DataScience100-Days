@@ -57,3 +57,7 @@ Day15:
 <br>
 Today i make a project using all existing concept.
 <br>
+Day16:
+<br>
+Today i cover the mix data like how to handle mix data.
+<br>
