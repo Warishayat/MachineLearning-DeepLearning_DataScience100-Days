@@ -61,3 +61,7 @@ Day16:
 <br>
 Today i cover the mix data like how to handle mix data.
 <br>
+Day17:
+<br>
+Today i cover the how to handles date and time in the data.
+<br>
