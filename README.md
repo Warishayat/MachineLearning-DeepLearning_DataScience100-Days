@@ -65,3 +65,7 @@ Day17:
 <br>
 Today i cover the how to handles date and time in the data.
 <br>
+Day18:
+<br>
+Today i cover the CCA -->Case complete analysis or removinf or droping the values.
+<br>
