@@ -69,3 +69,7 @@ Day18:
 <br>
 Today i cover the CCA -->Case complete analysis or removinf or droping the values.
 <br>
+Day19:
+<br>
+Today i cover the handling missing values or univariate handle mising values.
+<br>
