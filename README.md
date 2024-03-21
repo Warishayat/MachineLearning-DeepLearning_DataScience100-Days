@@ -73,3 +73,8 @@ Day19:
 <br>
 Today i cover the handling missing values or univariate handle mising values.
 <br>
+Day20:
+<br>
+Today i cover the handling missing categorical values.
+<br>
+
