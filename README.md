@@ -77,4 +77,8 @@ Day20:
 <br>
 Today i cover the handling missing categorical values.
 <br>
-
+<br>
+Day21:
+<br>
+Today i cover the handling missing values with tecnique Fill with Random and Missing Indicator.
+<br>
