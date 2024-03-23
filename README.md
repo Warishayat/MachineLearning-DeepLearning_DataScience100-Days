@@ -82,3 +82,7 @@ Day21:
 <br>
 Today i cover the handling missing values with tecnique Fill with Random and Missing Indicator.
 <br>
+Day22:
+<br>
+Today i cover the Knn imputer and practise side by side comparision with simpleimputer,Knn imputer,missingindicator,random etc.
+<br>
