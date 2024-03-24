@@ -86,3 +86,7 @@ Day22:
 <br>
 Today i cover the Knn imputer and practise side by side comparision with simpleimputer,Knn imputer,missingindicator,random etc.
 <br>
+Day23:
+<br>
+Today i understand the concept of Multivariate Missing Imputer Concept.(WithoutDOINGcode).
+<br>
