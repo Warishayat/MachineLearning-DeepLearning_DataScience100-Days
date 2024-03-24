@@ -77,7 +77,6 @@ Day20:
 <br>
 Today i cover the handling missing categorical values.
 <br>
-<br>
 Day21:
 <br>
 Today i cover the handling missing values with tecnique Fill with Random and Missing Indicator.
@@ -88,5 +87,4 @@ Today i cover the Knn imputer and practise side by side comparision with simplei
 <br>
 Day23:
 <br>
-Today i understand the concept of Multivariate Missing Imputer Concept.(WithoutDOINGcode).
-<br>
+Today i understand the concept of Multivariate Missing Imputer Concept.
