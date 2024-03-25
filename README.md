@@ -88,3 +88,9 @@ Today i cover the Knn imputer and practise side by side comparision with simplei
 Day23:
 <br>
 Today i understand the concept of Multivariate Missing Imputer Concept.
+<br>
+Day24:
+<br>
+Today i wrote about the outlier at this day i take the concept of handling outlier with z score that mean data is normally distributed then we remove the outliers with tecniique  zcsore
+<br>
+like if i talk about the formoula that is: z_score=x-mean/std or 3+x(standard_diviation) for positive side and 3-x(standard_diviation) then we read the conceptt of capping and trrimming the data.
