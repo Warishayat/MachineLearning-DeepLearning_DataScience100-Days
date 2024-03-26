@@ -94,3 +94,9 @@ Day24:
 Today i wrote about the outlier at this day i take the concept of handling outlier with z score that mean data is normally distributed then we remove the outliers with tecniique  zcsore
 <br>
 like if i talk about the formoula that is: z_score=x-mean/std or 3+x(standard_diviation) for positive side and 3-x(standard_diviation) then we read the conceptt of capping and trrimming the data.
+<br>
+Day25:
+<br>
+Today i read about the another tecnique of handling outlier is IQR we do solve some question the formoula that we used in the IQR method is<br>
+Q1-1.5*iqr and Q3+1.5*iqr .where IQR is the diffence between the value of 75% and 25%. and q1 is 25% of the total value where the q3 is the 75% of <br>
+pf the total value.
