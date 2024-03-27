@@ -100,3 +100,9 @@ Day25:
 Today i read about the another tecnique of handling outlier is IQR we do solve some question the formoula that we used in the IQR method is<br>
 Q1-1.5*iqr and Q3+1.5*iqr .where IQR is the diffence between the value of 75% and 25%. and q1 is 25% of the total value where the q3 is the 75% of <br>
 pf the total value.
+<br>
+Day25:
+<br>
+Today i read about the percentile tcehnique by using that how we can detact and remove outliers.
+<br>
+
