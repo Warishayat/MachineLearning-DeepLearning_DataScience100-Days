@@ -105,4 +105,9 @@ Day25:
 <br>
 Today i read about the percentile tcehnique by using that how we can detact and remove outliers.
 <br>
+Day26:
+<br>
+Today i read about the feature contsruction like how to construct new columns from existing data and i learn how to do feature split..
+<br>
+
 
