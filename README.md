@@ -109,5 +109,13 @@ Day26:
 <br>
 Today i read about the feature contsruction like how to construct new columns from existing data and i learn how to do feature split..
 <br>
-
+Day27:
+<br>
+Today i read about the curse of dimensionality where the dimensionality mean feature and feature mean columns that if we have feature more then algoritham that can make the <br>
+algoritham capacity decrease or it is not benifical for the algorithan  and it would increase the sparsity of the columns becuase of that the data point separate/fare from the mean<br>
+in Curse of dimensionality use both for FEATURE SELECTION and FEATURE EXTRACTION.
+<br>
+For next one week i will be never upload/task because first i solve the task then i upload to the github but my exam is ongoing because of that i am not avialabale <br>
+But i will maintain my strea with github by updating thge readme..
+<br>
 
