@@ -118,4 +118,12 @@ in Curse of dimensionality use both for FEATURE SELECTION and FEATURE EXTRACTION
 For next one week i will be never upload/task because first i solve the task then i upload to the github but my exam is ongoing because of that i am not avialabale <br>
 But i will maintain my strea with github by updating thge readme..
 <br>
-
+<br>
+<br>
+<br>
+leave for exam
+<br>
+<br>
+<br>
+<br>
+<br>
