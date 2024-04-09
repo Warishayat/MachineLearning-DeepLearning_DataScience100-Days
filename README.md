@@ -115,5 +115,11 @@ Today i read about the curse of dimensionality where the dimensionality mean fea
 algoritham capacity decrease or it is not benifical for the algorithan  and it would increase the sparsity of the columns becuase of that the data point separate/fare from the mean<br>
 in Curse of dimensionality use both for FEATURE SELECTION and FEATURE EXTRACTION.
 <br>
+Day28:
+<br>
 Today i read about the principle component analysis pca feature extraction technique what is that? how that is work.?
+<br>
+Day29:
+<br>
+Today i practise the old topic that i had done in past like future construction and handling mix data.
 <br>
