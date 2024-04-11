@@ -123,3 +123,9 @@ Day29:
 <br>
 Today i practise the old topic that i had done in past like future construction and handling mix data.
 <br>
+Day:30
+<br>
+Today i read about the simple linear regression how it is work but without mathematical intution.
+<br>
+
+
