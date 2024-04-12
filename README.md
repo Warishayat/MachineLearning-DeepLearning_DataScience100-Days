@@ -127,5 +127,9 @@ Day:30
 <br>
 Today i read about the simple linear regression how it is work but without mathematical intution.
 <br>
+Day:31
+<br>
+Today i read about the simple linear regression how it is work with mathamtics intutions.
+<br>
 
 
