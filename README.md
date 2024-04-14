@@ -135,5 +135,9 @@ Day:32
 <br>
 Today i read about the multiple linear regression how it is work without mathamtics intutions.
 <br>
+Day:32
+<br>
+Today i read about the multiple linear regression how it is work with mathamtics intutions.
+<br>
 
 
