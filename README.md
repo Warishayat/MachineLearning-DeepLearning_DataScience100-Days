@@ -139,5 +139,9 @@ Day:33
 <br>
 Today i read about the multiple linear regression how it is work with mathamtics intutions.
 <br>
+Day:34
+<br>
+Today i read about the Mean Absoulute Error ,Mean Squared Error,Root mean Squared Error,R2_score and adjusted r2_score.
+<br>
 
 
