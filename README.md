@@ -143,5 +143,9 @@ Day:34
 <br>
 Today i read about the Mean Absoulute Error ,Mean Squared Error,Root mean Squared Error,R2_score and adjusted r2_score.
 <br>
+Day:35
+<br>
+Today i read about the Gradient descent
+<br>
 
 
