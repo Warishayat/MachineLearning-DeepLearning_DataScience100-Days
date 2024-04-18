@@ -147,5 +147,10 @@ Day:35
 <br>
 Today i read about the Gradient descent
 <br>
+<br>
+Day:36
+<br>
+Today i read about the Gradient descent type which is Batch Gradient Descent and their mathematical intuition. 
+<br>
 
 
