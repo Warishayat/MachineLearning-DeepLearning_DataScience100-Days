@@ -147,10 +147,12 @@ Day:35
 <br>
 Today i read about the Gradient descent
 <br>
-<br>
 Day:36
 <br>
-Today i read about the Gradient descent type which is Batch Gradient Descent and their mathematical intuition. 
+Today i read about the Gradient descent type which is Batch Gradient Descent and their mathematical intuition and code from scracth.
 <br>
-
+Day:37
+<br>
+Today i read about the Gradient descent type which is stochastic Gradient Descent and their mathematical intuition. and code from scractch. And start practise and revise of all topic from start.
+<br>
 
