@@ -159,3 +159,7 @@ Day:38
 <br>
 Today i read about the Gradient descent type which is Minni Batch Gradient Descent and their mathematical intuition. and code from scractch.from start.
 <br>
+Day:39
+<br>
+First i revised the multiple linear regression and doin some paractise.
+<br>
