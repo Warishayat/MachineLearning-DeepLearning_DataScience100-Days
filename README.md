@@ -165,3 +165,8 @@ First i revised the multiple linear regression and doin some paractise.
 <br>
 Than i read about the polynomial regression when the data is non linear.
 <br>
+Day:40
+<br>
+First i revised theGradient Descent and doin some paractise.
+<br>
+<br>
