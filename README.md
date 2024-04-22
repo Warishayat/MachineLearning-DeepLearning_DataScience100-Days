@@ -169,4 +169,6 @@ Day:40
 <br>
 First i revised theGradient Descent and doin some paractise.
 <br>
+Then i read about Bias variance trade off mean the concept of underfitting and overfitting technique.
 <br>
+Then i read about about Regularization technique or ridge technique which i used for overfitting.
