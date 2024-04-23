@@ -172,3 +172,7 @@ First i revised theGradient Descent and doin some paractise.
 Then i read about Bias variance trade off mean the concept of underfitting and overfitting technique.
 <br>
 Then i read about about Regularization technique or ridge technique which i used for overfitting.
+<br>
+Day:41
+<br>
+i read about the ridge regression and solve problem on that.and make my own class from scratch.
