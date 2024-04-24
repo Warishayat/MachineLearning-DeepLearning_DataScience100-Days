@@ -176,3 +176,6 @@ Then i read about about Regularization technique or ridge technique which i used
 Day:41
 <br>
 i read about the ridge regression and solve problem on that.and make my own class from scratch.
+<br>
+i read about the ridge regression and solve problem with gradient decent by making my own class although there was some dimension error but i will check letar.
+
