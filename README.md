@@ -178,4 +178,8 @@ Day:41
 i read about the ridge regression and solve problem on that.and make my own class from scratch.
 <br>
 i read about the ridge regression and solve problem with gradient decent by making my own class although there was some dimension error but i will check letar.
-
+<br>
+Day:42
+<br>
+i practise about the gradient descent type which is stochastic gradient descent.which take update with every row.
+<br>
