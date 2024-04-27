@@ -183,7 +183,6 @@ Day:42
 <br>
 i practise about the gradient descent type which is stochastic gradient descent.which take update with every row.
 <br>
-<br>
 Day:43
 <br>
 i practise about the gradient descent type which is Minni Batch gradient descent.which take update with batch size.
