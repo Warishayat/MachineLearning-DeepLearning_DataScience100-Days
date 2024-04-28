@@ -189,4 +189,8 @@ i practise about the gradient descent type which is Minni Batch gradient descent
 <br>
 i practise about the polynomial regression why that use what is the working behind that than practise a problem of polynomial.
 <br>
+Day:44
+<br>
+i practise about the Overfitting technique which is ridge regression i do that with sklearn library and with my own class and compare the accuracy between both of them.
+<br>
 
