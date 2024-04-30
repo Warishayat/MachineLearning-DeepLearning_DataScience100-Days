@@ -193,4 +193,18 @@ Day:44
 <br>
 i practise about the Overfitting technique which is ridge regression i do that with sklearn library and with my own class and compare the accuracy between both of them.
 <br>
+Day:45
+<br>
+Today i read about the ridge regression key feature the five feature that are:
+<br>
+1:How to coefficent get affected by lambda?
+<br>
+2:Higher values are impace more?
+<br>
+3:Regularization effect on bais variance?
+<br>
+4:Lambda impact on loss function?
+<br>
+5:why it is called ridge?
+<br>
 
