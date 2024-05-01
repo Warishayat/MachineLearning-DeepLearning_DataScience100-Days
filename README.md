@@ -211,3 +211,7 @@ Day:46
 <br>
 Today i read about the lasso regression key features their background intutions:
 <br>
+Day:47
+<br>
+Today i read about the lasso regression behind the mathematics like why lasso creat sparsity mean why coef_ gone zero if we increase lambda/alpha.
+<br>
