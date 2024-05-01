@@ -207,4 +207,7 @@ Today i read about the ridge regression key feature the five feature that are:
 <br>
 5:why it is called ridge?
 <br>
-
+Day:46
+<br>
+Today i read about the lasso regression key features their background intutions:
+<br>
