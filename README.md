@@ -209,9 +209,11 @@ Today i read about the ridge regression key feature the five feature that are:
 <br>
 Day:46
 <br>
-Today i read about the lasso regression key features their background intutions:
+Today i read and practise about the lasso regression key features their background intutions:
 <br>
 Day:47
 <br>
-Today i read about the lasso regression behind the mathematics like why lasso creat sparsity mean why coef_ gone zero if we increase lambda/alpha.
+Today i read and practise about the lasso regression behind the mathematics like why lasso creat sparsity mean why coef_ gone zero if we increase lambda/alpha.
+<br>
+Than i read and practise about the Elasitic net regression which is another technique to reduce overfitting technique it is the comn=bination of both Ridge and Lasso.
 <br>
