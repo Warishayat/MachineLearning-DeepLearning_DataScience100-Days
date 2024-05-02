@@ -215,5 +215,5 @@ Day:47
 <br>
 Today i read and practise about the lasso regression behind the mathematics like why lasso creat sparsity mean why coef_ gone zero if we increase lambda/alpha.
 <br>
-Than i read and practise about the Elasitic net regression which is another technique to reduce overfitting technique it is the comn=bination of both Ridge and Lasso.
+Than i read and practise about the Elasitic net regression which is another technique to reduce overfitting. it is the combination of both Ridge and Lasso.
 <br>
