@@ -217,3 +217,6 @@ Today i read and practise about the lasso regression behind the mathematics like
 <br>
 Than i read and practise about the Elasitic net regression which is another technique to reduce overfitting. it is the combination of both Ridge and Lasso.
 <br>
+Day:48
+<br>
+Today i read logistic regressiond and the basic concept of perceptron that using in logistic regression.
