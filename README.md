@@ -220,3 +220,7 @@ Than i read and practise about the Elasitic net regression which is another tech
 Day:48
 <br>
 Today i read logistic regressiond and the basic concept of perceptron that using in logistic regression.
+<br>
+Day:49
+<br>
+Today i read about  logistic regressiond with sigmoid function.
