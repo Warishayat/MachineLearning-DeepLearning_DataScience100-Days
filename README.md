@@ -224,3 +224,5 @@ Today i read logistic regressiond and the basic concept of perceptron that using
 Day:49
 <br>
 Today i read about  logistic regressiond with sigmoid function.
+<br>
+Today i read about the loss function of the logistic regression or function that sklearn used inside the logistic regression working.
