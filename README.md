@@ -234,3 +234,6 @@ Than i read about the classification metrics and i read about the accuracy score
 Day:51
 <br>
 Today i read about the Precision metrics,Recall metrics and F1_score and doin some practise about the metrics.
+<br>
+i do some pracrise of the precession,recall,f1_score and classification report.
+
