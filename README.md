@@ -236,4 +236,5 @@ Day:51
 Today i read about the Precision metrics,Recall metrics and F1_score and doin some practise about the metrics.
 <br>
 i do some pracrise of the precession,recall,f1_score and classification report.
-
+<br> 
+Two days break because of some issue. 
