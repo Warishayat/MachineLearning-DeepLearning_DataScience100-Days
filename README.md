@@ -237,12 +237,6 @@ Today i read about the Precision metrics,Recall metrics and F1_score and doin so
 <br>
 i do some pracrise of the precession,recall,f1_score and classification report.
 <br> 
-Two days break because of some issue. 
+Day:52
 <br>
-Break. 
-<br>
-Break
-<br>
-break
-<br>
-Last break
+Today i read about the softmax regression when we have more than two classes.
