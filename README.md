@@ -240,3 +240,6 @@ i do some pracrise of the precession,recall,f1_score and classification report.
 Day:52
 <br>
 Today i read about the softmax regression when we have more than two classes.
+<br>
+Than about polynomial logistic regression than i read about the hyperparameter of the logissti regression.
+
