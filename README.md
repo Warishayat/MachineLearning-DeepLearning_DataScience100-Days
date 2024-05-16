@@ -242,4 +242,6 @@ Day:52
 Today i read about the softmax regression when we have more than two classes.
 <br>
 Than about polynomial logistic regression than i read about the hyperparameter of the logissti regression.
-
+<br>
+Day 53:
+Today i read about the Disicion tree model what is disicion tree how it's work working of entropy etc. 
