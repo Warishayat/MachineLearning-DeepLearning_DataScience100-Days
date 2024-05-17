@@ -245,3 +245,4 @@ Than about polynomial logistic regression than i read about the hyperparameter o
 <br>
 Day 53:
 Today i read about the Disicion tree model what is disicion tree how it's work working of entropy etc. 
+Today i read about the Disicion Tree hyper parameter.
