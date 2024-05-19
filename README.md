@@ -249,3 +249,7 @@ Today i read about the Disicion tree model what is disicion tree how it's work w
 Today i read about the Disicion Tree hyper parameter.
 <br>
 Today i read about the Disicion regression tree and explore the librarry Dtreeviz.
+<br>
+Day 54:
+<br>
+Today i read about the ensemble technique, and about the type pf the technique.Like bagging voting etc.
