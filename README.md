@@ -257,3 +257,4 @@ Today i read about the ensemble technique, and about the type pf the technique.L
 Than i read about the voting ensamble assumption of voting ensamble.
 <br>
 Than i read about the classfication voting ensamble hard voting and soft voting and practise voting ensemble on the iris dataset.
+I do the coding of voting ensemble using diffrrent base model like logistic regression svm and disicion tree. 
