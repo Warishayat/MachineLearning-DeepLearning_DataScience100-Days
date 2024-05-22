@@ -259,3 +259,5 @@ Than i read about the voting ensamble assumption of voting ensamble.
 Than i read about the classfication voting ensamble hard voting and soft voting and practise voting ensemble on the iris dataset.
 <br>
 I do the coding of voting ensemble using diffrrent base model like logistic regression svm and disicion tree. 
+<br>
+Than i read about the voting regressor.
