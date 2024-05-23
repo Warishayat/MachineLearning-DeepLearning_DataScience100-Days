@@ -261,3 +261,6 @@ Than i read about the classfication voting ensamble hard voting and soft voting 
 I do the coding of voting ensemble using diffrrent base model like logistic regression svm and disicion tree. 
 <br>
 Than i read about the voting regressor.
+<br>
+Day 55:
+Today i read about the bagging ensemble technique core idea of bagging intution of bagging etc. than i apply all the knowlede to a code.
