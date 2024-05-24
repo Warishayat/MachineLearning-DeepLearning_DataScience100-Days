@@ -264,3 +264,5 @@ Than i read about the voting regressor.
 <br>
 Day 55:
 Today i read about the bagging ensemble technique core idea of bagging intution of bagging etc. than i apply all the knowlede to a code.
+<br>
+Today i read about Bagging classifier and practise the code example of bagging ensemble with bootstraping than i read about the type of the bagging like pasting(without replacement) ,random subspaces (colum sampling) and random patches(both colums and row smapling).
