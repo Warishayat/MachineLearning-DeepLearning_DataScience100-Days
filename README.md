@@ -270,5 +270,8 @@ Today i read about Bagging classifier and practise the code example of bagging e
 <br>
 Today i read about Bagging Regressor and doin a code example by using linear regression Disicion Tree regression and KnearestNeighbour with GridSearchCv to find the best aprameter.
 <br>
-Today's leave. 
+Day 56:
+Today i read about the random forest algoritham basic about the algoritham.
+
+
 
