@@ -272,6 +272,7 @@ Today i read about Bagging Regressor and doin a code example by using linear reg
 <br>
 Day 56:
 Today i read about the random forest algoritham basic about the algoritham.
-
+<br>
+Leave till 11 june because i have my final exam. 
 
 
