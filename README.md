@@ -273,28 +273,6 @@ Today i read about Bagging Regressor and doin a code example by using linear reg
 Day 56:
 Today i read about the random forest algoritham basic about the algoritham.
 <br>
-Leave till 11 june because i have my final exam. 
+Day:57
 <br>
-Leave till 11 june because mine 5th semester is ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is ongoing
-<br>
-Leave till 11 june because mine 5th semester is ongoing
-<br>
-Leave till 11 june because mine 5th semester is Ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is Ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is Ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is Ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is Ongoing. 
-<br>
-Leave till 11 june because mine 5th semester is Ongoing 
+Today i read about all about random forest what is difference between random forest and bagging ensemble,how to tune hyperparameter oob score each and everything all about random forest. 
