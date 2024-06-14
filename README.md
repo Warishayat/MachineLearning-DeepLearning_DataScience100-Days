@@ -1,4 +1,4 @@
-# MachineLearning-DataScience100-Days
+U# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -276,3 +276,7 @@ Today i read about the random forest algoritham basic about the algoritham.
 Day:57
 <br>
 Today i read about all about random forest what is difference between random forest and bagging ensemble,how to tune hyperparameter oob score each and everything all about random forest. 
+<br>
+Day:58
+<br>
+Today i read about the adaboost Classifier where i read about weak learner,disicion stump etc. 
