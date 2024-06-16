@@ -284,4 +284,6 @@ Today i read about the adaboost Classifier where i read about weak learner,disic
 Day:59
 <br>
 Today i read about the adaboost Classifier working from sctrach.
+<br.
+Than i implement the class through scikit learn and hpertune the parameter.than check which parametrs are the best for the adaboos using gridSeacrhCv.
  
