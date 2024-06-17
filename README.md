@@ -1,4 +1,4 @@
-U# MachineLearning-DataScience100-Days
+ReU# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -286,4 +286,6 @@ Day:59
 Today i read about the adaboost Classifier working from sctrach.
 <br.
 Than i implement the class through scikit learn and hpertune the parameter.than check which parametrs are the best for the adaboos using gridSeacrhCv.
+<br>
+Bagging vs boosting 
  
