@@ -287,5 +287,10 @@ Today i read about the adaboost Classifier working from sctrach.
 <br.
 Than i implement the class through scikit learn and hpertune the parameter.than check which parametrs are the best for the adaboos using gridSeacrhCv.
 <br>
-Bagging vs boosting 
+Bagging vs boosting.what are the model that use, (LBHV, HBLV), parallel vs sequential model, and weights for the model. 
+<br>
+Day:60
+<br>
+Todai i read about K mean clustering back intuition how it's work how to know how much clusters should i take using Elbow method. 
+
  
