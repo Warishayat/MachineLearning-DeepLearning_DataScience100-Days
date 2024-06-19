@@ -292,5 +292,7 @@ Bagging vs boosting.what are the model that use, (LBHV, HBLV), parallel vs seque
 Day:60
 <br>
 Todai i read about K mean clustering back intuition how it's work how to know how much clusters should i take using Elbow method. 
-
- 
+<br>
+Than i apply all the knowledge to a practical dataset. 
+<br>
+Than i make class from scratch of cluster and doin all the work manually. 
