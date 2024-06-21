@@ -1,4 +1,4 @@
-ReU# MachineLearning-DataScience100-Days
+# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -296,3 +296,5 @@ Todai i read about K mean clustering back intuition how it's work how to know ho
 Than i apply all the knowledge to a practical dataset. 
 <br>
 Than i make class from scratch of cluster and doin all the work manually. 
+<br>
+Than i make class from scratch of python. 
