@@ -297,4 +297,8 @@ Than i apply all the knowledge to a practical dataset.
 <br>
 Than i make class from scratch of cluster and doin all the work manually. 
 <br>
-Than i make class from scratch of python. 
+Than i make class from scratch of python.
+<br>
+Day:61
+<br>
+Today i explore the gradient boosting algorithm and the intuition of this algorithm. 
