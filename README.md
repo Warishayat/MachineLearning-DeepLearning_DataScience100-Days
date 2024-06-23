@@ -302,3 +302,6 @@ Than i make class from scratch of python.
 Day:61
 <br>
 Today i explore the gradient boosting algorithm and the intuition of this algorithm. 
+<br>
+Today i read about the back math of gradient boosting.
+
