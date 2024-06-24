@@ -304,4 +304,5 @@ Day:61
 Today i explore the gradient boosting algorithm and the intuition of this algorithm. 
 <br>
 Today i read about the back math of gradient boosting.
-
+<br>
+Today i explore gradient boosting with classification.
