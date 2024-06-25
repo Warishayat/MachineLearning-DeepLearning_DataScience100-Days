@@ -306,3 +306,7 @@ Today i explore the gradient boosting algorithm and the intuition of this algori
 Today i read about the back math of gradient boosting.
 <br>
 Today i explore gradient boosting with classification.
+<br>
+Day:62
+<br>
+Today i explore stacking and blanding.
