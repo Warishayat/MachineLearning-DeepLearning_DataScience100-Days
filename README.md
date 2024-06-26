@@ -310,3 +310,5 @@ Today i explore gradient boosting with classification.
 Day:62
 <br>
 Today i explore stacking and blanding.
+<br>
+Than i do code of stacking and blending.
