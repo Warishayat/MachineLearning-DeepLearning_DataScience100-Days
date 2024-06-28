@@ -314,4 +314,11 @@ Today i explore stacking and blanding.
 Than i do code of stacking and blending.
 <br>
 Day:63
-Today i explore another clustering algo Algomarative clustering which is unsupervised machine learning algorithm. 
+<br>
+Today i explore another clustering algo Agglomarative clustering which is unsupervised machine learning algorithm. 
+<br>
+The main difference behind KMean clusters and Agglomarative clusters is that the Kmean work well when the data /cluster is well defined on the other hand Agglomarative clustering work with complex data.
+<br>
+Day:64
+<br>
+Today i work with  k Nearest Neighbour their working code each and everything. 
