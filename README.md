@@ -322,3 +322,7 @@ The main difference behind KMean clusters and Agglomarative clusters is that the
 Day:64
 <br>
 Today i work with  k Nearest Neighbour their working code each and everything. 
+<br>
+Day:65
+<br>
+I explore the five assumption of Linear Regression. 
