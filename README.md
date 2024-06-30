@@ -326,3 +326,7 @@ Today i work with  k Nearest Neighbour their working code each and everything.
 Day:65
 <br>
 I explore the five assumption of Linear Regression. 
+<br>
+Day:66
+<br>
+Today i explore about the Support vector machine and their kernal trick each and every thing about svm.
