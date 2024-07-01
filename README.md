@@ -330,3 +330,8 @@ I explore the five assumption of Linear Regression.
 Day:66
 <br>
 Today i explore about the Support vector machine and their kernal trick each and every thing about svm.
+<br>
+Day:67
+<br>
+Today i explore he naive bayes algoritham internally which is used bayes algoritham.than i do a code without using any ml library.
+
