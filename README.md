@@ -1,4 +1,4 @@
-# MachineLearning-DataScience100-Days
+I u# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -334,4 +334,8 @@ Today i explore about the Support vector machine and their kernal trick each and
 Day:67
 <br>
 Today i explore he naive bayes algoritham internally which is used bayes algoritham.than i do a code without using any ml library.
+<br>
+Day:68
+<br>
+Today I learn about the xg boost which is famous library made up on gradient boosting. I learn to code and example Xg-boost with regressor.
 
