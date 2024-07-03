@@ -337,5 +337,8 @@ Today i explore he naive bayes algoritham internally which is used bayes algorit
 <br>
 Day:68
 <br>
-Today I learn about the xg boost which is famous library made up on gradient boosting. I learn to code and example Xg-boost with regressor.
+Today I learn about the XGBoost which is famous library made up on gradient boosting. I learn to code and example Xg-boost with regressor.
+<br>
+Than I explore the XGBoost classification. 
+Ans solve the practical problem with a real world data set. 
 
