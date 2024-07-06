@@ -1,4 +1,4 @@
-I u# MachineLearning-DataScience100-Days
+MI u# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -346,4 +346,6 @@ day:69
 <br>
 Today i read about about the DBSCAN algoritham which is unsupervised learning algoritham technique.
 <br>
-Working on project Machine learning is complete now. 
+Working on project Machine learning is complete now.
+<br>
+Working on project. And i will submit that into diffrent repo. 
