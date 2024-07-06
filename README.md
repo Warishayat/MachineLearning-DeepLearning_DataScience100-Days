@@ -348,4 +348,4 @@ Today i read about about the DBSCAN algoritham which is unsupervised learning al
 <br>
 Working on project Machine learning is complete now.
 <br>
-Working on project. And i will submit that into diffrent repo. 
+i upload a case study project which help the NGO to help the intenational countries that really need of funds.
