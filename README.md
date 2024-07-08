@@ -1,4 +1,4 @@
-MI u# MachineLearning-DataScience100-Days
+# MachineLearning-DataScience100-Days
 #100 days with Machine-Learning/Data-Science
 <br>
 Day1:
@@ -349,3 +349,5 @@ Today i read about about the DBSCAN algoritham which is unsupervised learning al
 Working on project Machine learning is complete now.
 <br>
 i upload a case study project which help the NGO to help the intenational countries that really need of funds.
+<br>
+Now i start Deep learning today i read about what is deep learning and machin learning diffrenc between deep and machine learning. Than what is deep learning complete introduction about deep learning. 
