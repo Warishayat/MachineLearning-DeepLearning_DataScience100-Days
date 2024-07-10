@@ -352,4 +352,6 @@ i upload a case study project which help the NGO to help the intenational countr
 <br>
 Now i start Deep learning today i read about what is deep learning and machin learning diffrenc between deep and machine learning. Than what is deep learning complete introduction about deep learning.
 <br>
-Deep learning 
+Application of deep learning. 
+<br>
+What is Perceptron? 
