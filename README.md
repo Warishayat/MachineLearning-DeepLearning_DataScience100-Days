@@ -354,4 +354,6 @@ Now i start Deep learning today i read about what is deep learning and machin le
 <br>
 Application of deep learning. 
 <br>
-What is Perceptron? 
+Types of Perceptron. 
+<br>
+What is Perceptron? Singly layer Perceptron and Multi Layer Perceptron. 
