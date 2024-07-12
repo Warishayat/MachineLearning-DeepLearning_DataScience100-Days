@@ -357,3 +357,7 @@ Application of deep learning.
 Types of Perceptron. 
 <br>
 What is Perceptron? Singly layer Perceptron and Multi Layer Perceptron. 
+<br>
+Today i read about the loss function of Perceptron. 
+<br>
+Biggest flawn in Perceptron. 
