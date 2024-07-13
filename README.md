@@ -361,3 +361,7 @@ What is Perceptron? Singly layer Perceptron and Multi Layer Perceptron.
 Today i read about the loss function of Perceptron. 
 <br>
 Biggest flawn in Perceptron. 
+<br>
+Day:70 
+<br>
+Today i read about the Multi layer perceptron notations, and all about the multi layer perceptron.
