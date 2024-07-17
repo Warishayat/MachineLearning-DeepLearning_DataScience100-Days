@@ -366,6 +366,7 @@ Day:70
 <br>
 Today i read about the Multi layer perceptron notations, and all about the multi layer perceptron.
 <br>
+Today i do another project on mnist dataset.
 Today i read about forward propagation. 
 <br>
 Today i do a project by using Artificial Neural Network. 
