@@ -370,3 +370,5 @@ Today i do another project on mnist dataset.
 Today i read about forward propagation. 
 <br>
 Today i do a project by using Artificial Neural Network. 
+<br>
+Today i read about the different loss functions in deep learning like Mean square error, mean absolute error, huber loss, binary crossentropy, categorical_crossentropy, sparse_categorical_cross_entropy. 
