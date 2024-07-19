@@ -372,3 +372,7 @@ Today i read about forward propagation.
 Today i do a project by using Artificial Neural Network. 
 <br>
 Today i read about the different loss functions in deep learning like Mean square error, mean absolute error, huber loss, binary crossentropy, categorical_crossentropy, sparse_categorical_cross_entropy. 
+<br>
+Day:71
+<br>
+Today i read about what is back propagation how it's implementation, why its work and all the mathematics of back propagation. 
