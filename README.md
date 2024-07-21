@@ -377,4 +377,6 @@ Day:71
 <br>
 Today i read about what is back propagation how it's implementation, why its work and all the mathematics of back propagation.
 <br>
-Leave. 
+Day:72 
+<br>
+Today i read baout the memoization technique where memoization mean to speed up the program.
