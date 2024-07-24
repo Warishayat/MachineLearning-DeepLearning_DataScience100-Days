@@ -384,3 +384,5 @@ Today i read baout the memoization technique where memoization mean to speed up 
 Today i read about different varient of gradient descent like batch gradient descent, stochastic gradient descent and minni batch gradient descent. 
 <br>
 Leavw
+<br>
+Leave
