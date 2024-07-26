@@ -384,3 +384,9 @@ Today i read baout the memoization technique where memoization mean to speed up 
 Today i read about different varient of gradient descent like batch gradient descent, stochastic gradient descent and minni batch gradient descent. 
 <br>
 Today i read about vanishing gradient descent. 
+<br>
+Day:73 
+<br>
+Today i read about how to improve the perfoamance of the neural network, how to fie tune the hyperparameter,and how to tune the hyerparamter.
+<br>
+Than i read about the concept of early stopping mean how much i should iterate into the data.
