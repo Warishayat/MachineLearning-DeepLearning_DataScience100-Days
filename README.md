@@ -390,3 +390,7 @@ Day:73
 Today i read about how to improve the perfoamance of the neural network, how to fie tune the hyperparameter,and how to tune the hyerparamter.
 <br>
 Than i read about the concept of early stopping mean how much i should iterate into the data.
+<br>
+Than i read another topic about the improving perfoamance of neura network that is feature scaling in artifiacal neral network.
+<br>
+Than i explore the Dropout layers which is another technique to reduce overfitting  in neural network which is used to improve the perfoamance of neural network.
