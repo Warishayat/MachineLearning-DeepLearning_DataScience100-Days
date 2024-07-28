@@ -394,3 +394,7 @@ Than i read about the concept of early stopping mean how much i should iterate i
 Than i read another topic about the improving perfoamance of neura network that is feature scaling in artifiacal neral network.
 <br>
 Than i explore the Dropout layers which is another technique to reduce overfitting  in neural network which is used to improve the perfoamance of neural network.
+<br>
+Than i read about the another overfitting technique which is regularization. i explore L1 and L2 regularization in deep learning.
+<br>
+Than i explore the diffrent activation function like sigmoid,tanh hyperparabolic and Relu(Rectified linear unit).
