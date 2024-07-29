@@ -397,4 +397,7 @@ Than i explore the Dropout layers which is another technique to reduce overfitti
 <br>
 Than i read about the another overfitting technique which is regularization. i explore L1 and L2 regularization in deep learning.
 <br>
-Than i explore the diffrent activation function like sigmoid,tanh hyperparabolic and Relu(Rectified linear unit).
+Than i explore the diffrent activation function like sigmoid,tanh hyperparabolic and Relu(Rectified linear unit).than explore the diffrent variant of relu like leaky relu, parametric relu,exponential relu and scaled relu.
+<br>
+Than i read about the Weight intialization and i explore the two weight initialization technique like Glorot_normal and Hi_normal.
+
