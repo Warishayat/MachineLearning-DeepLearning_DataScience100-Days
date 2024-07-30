@@ -402,6 +402,6 @@ Than i explore the diffrent activation function like sigmoid,tanh hyperparabolic
 Than i read about the Weight intialization and i explore the two weight initialization technique like Glorot_normal and Hi_normal.
 <br>
 Than i read about the batch normaization technique which is used to make faster training of neural network.
-<br.
+<br>
 Than i read about diffrent optimizers like adagrad adam,nag momentum etc.
 
