@@ -403,5 +403,6 @@ Than i read about the Weight intialization and i explore the two weight initiali
 <br>
 Than i read about the batch normaization technique which is used to make faster training of neural network.
 <br>
-Than i read about diffrent optimizers like adagrad adam,nag momentum etc.
-
+Than i read about diffrent optimizers like adagrad adam,nastrove accelerated gradient momentum etc.
+<br>
+Than i explore more about the optimizers like rmsprop,adam how all these diifrent from each others.
