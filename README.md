@@ -408,3 +408,7 @@ Than i read about diffrent optimizers like adagrad adam,nastrove accelerated gra
 Than i explore more about the optimizers like rmsprop,adam how all these diifrent from each others.
 <br>
 Today i read about hyperparameter tunner in Neural network.
+<br>
+Day:74
+<br>
+Today i read about the introduction oart of cnn. 
