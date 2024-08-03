@@ -412,3 +412,5 @@ Today i read about hyperparameter tunner in Neural network.
 Day:74
 <br>
 Today i read about the introduction oart of cnn. 
+<br>
+Today i read about the Convoulational Operations than Padding and strides than i read about the max pooling than i apply all the knowledge with a mnist dataset.
