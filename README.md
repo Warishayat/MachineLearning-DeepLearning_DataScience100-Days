@@ -414,3 +414,7 @@ Day:74
 Today i read about the introduction oart of cnn. 
 <br>
 Today i read about the Convoulational Operations than Padding and strides than i read about the max pooling than i apply all the knowledge with a mnist dataset.
+<br>
+Today i read about back propagation in Cnn. 
+<br>
+Than i work on a project which was image classification Dog vs Cat. 
