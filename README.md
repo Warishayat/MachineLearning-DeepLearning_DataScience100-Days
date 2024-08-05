@@ -418,3 +418,9 @@ Today i read about the Convoulational Operations than Padding and strides than i
 Today i read about back propagation in Cnn. 
 <br>
 Than i work on a project which was image classification Dog vs Cat. 
+<br>
+Day:75 
+<br>
+Today i read about the data augmentation technique to avoid from overfitting and when you have low data.
+<br>
+Than i explore the pretrained Model of keras like ResNeT ,GoggleNet,VGG16,etc
