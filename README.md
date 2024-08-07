@@ -426,4 +426,6 @@ Today i read about the data augmentation technique to avoid from overfitting and
 Than i explore the pretrained Model of keras like ResNeT ,GoggleNet,VGG16,etc
 <br>
 Today  i read about the transfar learnring when we use someones pretrained model with our custom data than we use transfar learning there are two type of learning 1: Feature Extraction and 2 is Fine tunning.
+<br>
+Today i read about functional model api. 
 
