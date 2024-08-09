@@ -430,4 +430,6 @@ Today  i read about the transfar learnring when we use someones pretrained model
 Today i read about functional model api. 
 <br>
 Nothing to do. 
+<br>
+Leave. 
 
