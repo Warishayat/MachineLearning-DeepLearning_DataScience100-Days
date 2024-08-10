@@ -429,7 +429,7 @@ Today  i read about the transfar learnring when we use someones pretrained model
 <br>
 Today i read about functional model api. 
 <br>
-Nothing to do. 
+Day:76 
 <br>
-Leave. 
+Today i read about RNN,applications of RNN than forward propagation in RNN.
 
