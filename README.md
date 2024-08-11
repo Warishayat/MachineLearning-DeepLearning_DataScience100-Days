@@ -432,4 +432,6 @@ Today i read about functional model api.
 Day:76 
 <br>
 Today i read about RNN,applications of RNN than forward propagation in RNN.
+<br>
+Leave
 
