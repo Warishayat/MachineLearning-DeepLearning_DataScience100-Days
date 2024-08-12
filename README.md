@@ -433,5 +433,6 @@ Day:76
 <br>
 Today i read about RNN,applications of RNN than forward propagation in RNN.
 <br>
-Leave
+Today i read about the Type of Rnn an i do a project with two diffrent technique like 1: is integer encode and the second one is Embedding.
+
 
