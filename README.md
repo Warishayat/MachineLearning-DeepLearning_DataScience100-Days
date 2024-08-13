@@ -434,5 +434,5 @@ Day:76
 Today i read about RNN,applications of RNN than forward propagation in RNN.
 <br>
 Today i read about the Type of Rnn an i do a project with two diffrent technique like 1: is integer encode and the second one is Embedding.
-
-
+<br>
+Today i read about the back propagation in RNN & problem in RNN there are two major problem like Long term dependencies and unstable gradient. 
