@@ -444,3 +444,5 @@ Today i read about the lstm and the architecture of lstm.
 forget gate,input gate and output gate. 
 <br>
 Today  i do a project on lstm which is next word prediction i got the training accuracy of 95% which was quite good as a beginner.
+<br>
+Day:78
