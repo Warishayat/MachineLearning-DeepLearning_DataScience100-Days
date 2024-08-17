@@ -446,3 +446,10 @@ forget gate,input gate and output gate.
 Today  i do a project on lstm which is next word prediction i got the training accuracy of 95% which was quite good as a beginner.
 <br>
 Day:78
+<br>
+Today i read about the Gated RNN and all the working of GRU.
+<br>
+Than i read about the DEEP RNN or STACK RNN adding more layers into the RNN.
+<br>
+Than i read about the BIDIRECTIONAL RNN. all the codes of DAY 78 are attached.
+
