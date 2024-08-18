@@ -452,4 +452,15 @@ Today i read about the Gated RNN and all the working of GRU.
 Than i read about the DEEP RNN or STACK RNN adding more layers into the RNN.
 <br>
 Than i read about the BIDIRECTIONAL RNN. all the codes of DAY 78 are attached.
-
+<br>
+Day:79 
+<br>
+Today I read about Sequence 2 sequences data like machine translation and Name entity recognition.in Sequence 2 Sequence first i explore about encoder and decoder and counter vector which contain summary of input block and pass it to decode block . 
+<br>
+Than i explore the attention which is most important topic.
+<br>
+I explore 2 type of attention.
+<br>
+1:BahDaNau attention 
+<br>
+2: Luong Attention which was more smarter. 
