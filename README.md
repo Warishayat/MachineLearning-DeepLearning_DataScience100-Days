@@ -464,3 +464,7 @@ I explore 2 type of attention.
 1:BahDaNau attention 
 <br>
 2: Luong Attention which was more smarter. 
+<br>
+Today i read about transformer's and complete introduction of Transformers. 
+<br>
+Than i read about self attention.that convert the static embedding into the contextual embedding. 
