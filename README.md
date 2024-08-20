@@ -468,3 +468,5 @@ I explore 2 type of attention.
 Today i read about transformer's and complete introduction of Transformers. 
 <br>
 Than i read about self attention.that convert the static embedding into the contextual embedding. 
+<br>
+Today i explore the multi head attention where we use multi attention at the same time as much as attention increas context vector is also increas. 
