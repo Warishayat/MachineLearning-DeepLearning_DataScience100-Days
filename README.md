@@ -469,4 +469,8 @@ Today i read about transformer's and complete introduction of Transformers.
 <br>
 Than i read about self attention.that convert the static embedding into the contextual embedding. 
 <br>
-Today i explore the multi head attention where we use multi attention at the same time as much as attention increas context vector is also increas. 
+Today i explore the multi head attention where we use multi attention at the same time as much as attention increas context vector is also increas.
+<br>
+Today i read about positional Encoding to maintain the sequences.
+<br>
+Than i read about the layer normalization get the best results. 
