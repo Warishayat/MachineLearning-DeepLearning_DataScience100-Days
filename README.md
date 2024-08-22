@@ -474,3 +474,5 @@ Today i explore the multi head attention where we use multi attention at the sam
 Today i read about positional Encoding to maintain the sequences.
 <br>
 Than i read about the layer normalization get the best results. 
+<br>
+Today i read about the transformer architecture and understand the each and everything in transformer architecture. 
