@@ -476,3 +476,4 @@ Today i read about positional Encoding to maintain the sequences.
 Than i read about the layer normalization get the best results. 
 <br>
 Today i read about the transformer architecture and understand the each and everything in transformer architecture. 
+<br>
