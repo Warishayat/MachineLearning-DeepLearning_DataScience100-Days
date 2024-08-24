@@ -477,3 +477,4 @@ Than i read about the layer normalization get the best results.
 <br>
 Today i read about the transformer architecture and understand the each and everything in transformer architecture. 
 <br>
+Today i read about mask self attention than cross attention. 
