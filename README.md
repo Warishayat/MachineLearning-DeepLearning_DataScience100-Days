@@ -479,4 +479,7 @@ Today i read about the transformer architecture and understand the each and ever
 <br>
 Today i read about mask self attention than cross attention. 
 <br>
-Todai i read about the transformer architecture in detail all the details in and out. 
+Todai i read about the transformer architecture in detail all the details in and out.
+Day:80
+<br>
+Todi start the NLP and i start with introduction and Nlp pipeline. 
