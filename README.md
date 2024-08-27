@@ -479,7 +479,27 @@ Today i read about the transformer architecture and understand the each and ever
 <br>
 Today i read about mask self attention than cross attention. 
 <br>
+Day:
 Todai i read about the transformer architecture in detail all the details in and out.
+<br>
 Day:80
 <br>
-Todi start the NLP and i start with introduction and Nlp pipeline. 
+Today  i start the NLP and i start with introduction and Nlp pipeline. 
+<br>
+Today i cover the basic preprocessin in nlp like:
+<br>
+Convert text to lower case.
+<br>
+Removing_punctutation
+<br>
+Chat_word_treatment
+<br>
+spelling_correct
+<br>
+Removing_stopwords
+<br>
+Handling_emojies
+<br>
+Tokenization
+<br>
+Stemming
