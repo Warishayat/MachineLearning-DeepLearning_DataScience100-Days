@@ -503,3 +503,16 @@ Handling_emojies
 Tokenization
 <br>
 Stemming
+<br>
+Today i explore how to convert from text to number i learn about the diffrent techniques like.
+<br>
+One hot encoding
+<br>
+Bag of words
+<br>
+N-gram,bi-gram-tri-gram
+<br>
+TF-Idf 
+<br>
+
+
