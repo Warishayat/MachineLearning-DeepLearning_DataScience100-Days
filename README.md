@@ -515,3 +515,6 @@ N-gram,bi-gram-tri-gram
 TF-Idf 
 <br>
 Today i learn about Word2vec there are two main and famous type of word2vec 1 is cbow and other one is skip-gram.
+<br>
+Day:81
+<br>
