@@ -518,3 +518,4 @@ Today i learn about Word2vec there are two main and famous type of word2vec 1 is
 <br>
 Day:81
 <br>
+Leave
