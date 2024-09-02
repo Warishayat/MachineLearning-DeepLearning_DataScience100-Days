@@ -519,3 +519,6 @@ Today i learn about Word2vec there are two main and famous type of word2vec 1 is
 Day:81
 <br>
 Today i read about the text classification in NLP codes are attached with the file.
+<br>
+today i explore the parts of speech tagging using spacy library and read about the two famous algoritham 1: is hidden markov model in which we do emission prob,transition prob than second optimzation algoritham is Viterby algoritham which is used for optimization.
+
