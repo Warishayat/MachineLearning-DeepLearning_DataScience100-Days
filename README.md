@@ -523,3 +523,5 @@ Today i read about the text classification in NLP codes are attached with the fi
 today i explore the parts of speech tagging using spacy library and read about the two famous algoritham 1: is hidden markov model in which we do emission prob,transition prob than second optimzation algoritham is Viterby algoritham which is used for optimization.
 <br>
 Today i make a small nlp project sms-spam-classifier.
+<br>
+Leave for the next two days. 
