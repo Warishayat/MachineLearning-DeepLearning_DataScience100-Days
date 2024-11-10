@@ -533,24 +533,3 @@ From tomorrow i will start llm and gen ai
 <br>
 today i read about transformers text summarization using hagging face library.
 <br>
-Basic transformers upload 
-<br>
-Leave
-<br>
-Leave 
-<br>
-Leave 
-<br>
-Leave
-<br>
-Leave for a week.
-<br>
-Leave. 
-<br>
-Leave.
-<br>
-Leave. 
-<br>
-Leave
-<br>
-Leave
